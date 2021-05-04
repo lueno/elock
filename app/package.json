@@ -1,0 +1,16 @@
+{
+    "name": "clock",
+    "version": "0.0.1",
+    "main": "src/main.js",
+    "description": "A Simple Clock Gadget",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron ."
+    },
+    "author": "Ryuichi Ueno",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^12.0.5",
+        "electron-builder": "^22.10.5"
+    }
+}

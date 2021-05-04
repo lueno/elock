@@ -1,0 +1,13 @@
+body {
+    -webkit-app-region: drag;
+    -webkit-user-select: none;
+}
+
+#clock {
+    font-size: 42px;
+    line-height: 22px;
+    margin-top: 9px;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0 0 5px #777;
+}
